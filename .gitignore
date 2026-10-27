@@ -1,0 +1,8 @@
+__pycache__/
+*.py[oc]
+.venv
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+# make fixture / run / check-docker outputs
+build/

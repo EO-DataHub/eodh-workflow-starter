@@ -1,0 +1,3 @@
+# The helpers' checksum is computed with LF line endings.
+src/eodh_workflow/** text=auto eol=lf
+*.tif binary
