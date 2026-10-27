@@ -42,7 +42,7 @@ $graph:
         ramMax: 512
     hints:
       DockerRequirement:
-        dockerPull: ghcr.io/eo-datahub/eodh-workflow-starter:0.1.0
+        dockerPull: ghcr.io/geodowd/eodh-workflow-starter:0.1.0
     baseCommand: ["python3", "/app/main.py"]
     inputs:
       stac_item_dir:
